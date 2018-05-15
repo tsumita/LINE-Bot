@@ -1,7 +1,7 @@
 # PythonでLINEBot
 
 - FLASK使ってサーバ立てる
-- LINEdevelopersのReferenceにはHerokuでデプロイする方法勧めてたけど、ローカルPCから動かす
+- ローカルPCで動かすかHerokuでデプロイする
 
 ## PythonでのLINEBotAPI
 ### テキストメッセージに対する処理（おうむ返し）
