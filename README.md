@@ -63,5 +63,5 @@ def handle_message(event):
 
 
 <LINE-Bot Reference>
-[line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
-[LINE developers](https://developers.line.me/ja/)
+[line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)  
+[LINE developers](https://developers.line.me/ja/)  
