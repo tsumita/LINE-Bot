@@ -1,6 +1,6 @@
-# PythonでLINEBot作る
+# PythonでLINEBot
 
-- FLASK使ってサーバ立てた
+- FLASK使ってサーバ立てる
 - LINEdevelopersのReferenceにはHerokuでデプロイする方法勧めてたけど、ローカルPCから動かす
 
 ## PythonでのLINEBotAPI
