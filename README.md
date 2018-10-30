@@ -62,6 +62,14 @@ def handle_message(event):
 ```  
 
 
+---
+### WebHookURLの確認（個人サーバーで動かす時）
+- ngrokで5000番ポートの開放
+```sh
+$ ngrok http 5000
+```
+ForwardingにLINEのMessageが送信された時に通知されるエンドポイントが記載されてる  
+
 
 <LINE-Bot Reference>  
 
